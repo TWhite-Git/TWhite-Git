@@ -11,17 +11,20 @@
 
 ### Current Projects
 
-- **Set Up GitHub:** Update, record steps, and load projects to GitHub.
-- **US Housing Market Trends**
-  - Seattle Single Family Home (SFH) Sales
-  - Wake County, NC SFH Ownership
-  - Wake County, NC Home Value
-- **US Employemnt Trends**
-  - Relative Earnings Strength, Today:Past
-  - Relative Buying Power, Today:Past
-  - Jobs Created and Unemployment by Presidential Term
-- **Recreation and Sports**
-  - Lionel Messi Career Analysis
+- **Set Up GitHub:**
+  - Update, record steps, and load projects to GitHub.
+
+- **Data Science** [Link](https://github.com/TWhite-Git/Data_Science/tree/main)
+  - **US Housing Market Trends**
+    - Seattle Single Family Home (SFH) Sales
+    - Wake County, NC SFH Ownership
+    - Wake County, NC Home Value
+  - **US Employemnt Trends**
+    - Relative Earnings Strength, Today:Past
+    - Relative Buying Power, Today:Past
+    - Jobs Created and Unemployment by Presidential Term
+  - **Recreation and Sports**
+    - Lionel Messi Career Analysis
 
 ### Tools and Skills
 
