@@ -1,9 +1,5 @@
 # Welcome to Thomas White's github
 
-![Thomas White](https://github.com/TWhite-Git/Data_Science/assets/125609320/5cd66e54-408c-4e70-b7cd-d280243cae1b)
-
-
-
 **Data Analyst | Business Intelligence | Project Management**
 
 [LinkedIn](https://linkedin.com/in/Capt-Thomas-White) | [Thomas_White@kenan-flagler.unc.edu](mailto:Thomas_White@kenan-flagler.unc.edu)
@@ -12,6 +8,20 @@
 ### About Me
 
 11 years in roles of increasing responsibility within the intelligence community performing complex projects in data engineering, analysis, and presentation of recommendations to decisionmakers. 
+
+### Current Projects
+
+- **Set Up GitHub:** Update, record steps, and load projects to GitHub.
+- **US Housing Market Trends**
+  - Seattle Single Family Home (SFH) Sales
+  - Wake County, NC SFH Ownership
+  - Wake County, NC Home Value
+- **US Employemnt Trends**
+  - Relative Earnings Strength, Today:Past
+  - Relative Buying Power, Today:Past
+  - Jobs Created and Unemployment by Presidential Term
+- **Recreation and Sports**
+  - Lionel Messi Career Analysis
 
 ### Tools and Skills
 
